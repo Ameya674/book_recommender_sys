@@ -1,0 +1,37 @@
+# Ignore Python virtual environment
+venv/
+
+# Ignore Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore Python environment variables
+.env
+
+# Ignore vector database or generated files
+vector_store/
+
+# Ignore CSV data files
+*.csv
+
+# Ignore image metadata
+*.Zone.Identifier
+
+# Ignore common Python files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore Jupyter Notebook output cache
+*.nbconvert.ipynb
+
+# Ignore temporary or backup files
+*.bak
+*.swp
+*.tmp
+
+# Optional: Ignore images (if they're generated or unnecessary)
+# cover-not-found.jpg
+
+# Ignore VSCode settings (optional, if you're sharing repo)
+.vscode/
