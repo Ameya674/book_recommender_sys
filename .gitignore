@@ -7,11 +7,6 @@ venv/
 # Ignore Python environment variables
 .env
 
-# Ignore vector database or generated files
-vector_store/
-
-# Ignore CSV data files
-*.csv
 
 # Ignore image metadata
 *.Zone.Identifier
