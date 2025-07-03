@@ -2,18 +2,12 @@
 
 An AI-powered book recommendation system using OpenAI embeddings, LangChain, and Gradio for an interactive user experience.
 
-## Features
-
-- Semantic search for personalized book recommendations  
-- Interactive Gradio frontend  
-- Efficient vector storage using ChromaDB  
-
 ## Setup Instructions
 
 1. **Clone the repository**  
 ```bash
-git clone https://github.com/YourGitHubUsername/BookRecommender.git
-cd BookRecommender
+git clone https://github.com/Ameya674/book_recommender_sys.git
+cd book_recommender_sys
 
 ```bash
 python3 -m venv env
