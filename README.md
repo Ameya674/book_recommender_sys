@@ -10,6 +10,7 @@ git clone https://github.com/Ameya674/book_recommender_sys.git
 cd book_recommender_sys
 ```
 
+```bash
 python3 -m venv env
 source env/bin/activate   
 pip install -r requirements.txt
