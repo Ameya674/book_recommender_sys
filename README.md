@@ -11,7 +11,7 @@ cd book_recommender_sys
 ```
 
 ```bash
-python3 -m venv env
+python3 -m venv myenv
 source env/bin/activate   
 pip install -r requirements.txt
 ```
