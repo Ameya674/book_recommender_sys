@@ -24,6 +24,6 @@ OPENAI_API_KEY=your_openai_api_key_here
 
 ## Run the app
 ```bash
-python gradio-dashboard.py
+python app.py
 ```
 
