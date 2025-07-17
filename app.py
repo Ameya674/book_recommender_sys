@@ -12,7 +12,7 @@ import gradio as gr
 
 
 # loading the env variables
-# load_dotenv()
+load_dotenv()
 
 # load the dataset
 books = pd.read_csv("books-with-emotions.csv")
